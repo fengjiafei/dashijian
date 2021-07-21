@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*padding使页面距离上下左右都15px*/
+
+body {
+    background-color: #f2f3f5;
+    padding: 15px;
+}
+
+.layui-form {
+    width: 800px;
+}

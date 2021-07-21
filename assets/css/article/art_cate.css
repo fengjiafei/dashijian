@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*padding使页面距离上下左右都15px*/
+
+body {
+    background-color: #f2f3f5;
+    padding: 15px;
+}
+
+.layui-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.layui-form {
+    margin-top: 15px;
+    width: 400px;
+}
